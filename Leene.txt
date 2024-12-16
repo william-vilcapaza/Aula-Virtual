@@ -1,0 +1,5 @@
+Framework: react
+    herramienta: Vite
+
+IMPORTAR LA BASE DE DATOS AULA_VIRTUAL.SQL
+CAMBIAN LA CONTRASEÑA Y USER DEL server/server.js
